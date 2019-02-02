@@ -1,0 +1,12 @@
+body {
+	text-align: center;
+	margin-top: 50px;
+}
+
+.strike {
+	text-decoration: line-through;
+}
+
+.invisible {
+	display: none;
+}
